@@ -1,0 +1,41 @@
+body {
+background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.page-header {
+	color: white;
+}
+
+.page-header small {
+	color: white;
+}
+
+label {
+	margin-right: 20px;
+	color: white;
+}
+
+.formT {
+	font-size: 20px;
+}
+
+#toTal {
+	font-weight: 600;
+}
+
+#answer {
+	color: white;
+}
+
+#currency {
+	font-size: 25px;
+	color: white;
+}
+
+#toTal p {
+	color: white;
+
+}
+
